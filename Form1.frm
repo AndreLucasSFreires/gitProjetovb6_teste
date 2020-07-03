@@ -27,3 +27,12 @@ Private Sub Command1_Click()
 MsgBox "Feito no Windows 7"
 MsgBox "feito no windows 10"
 End Sub
+
+Private Sub Form_Load()
+
+End Sub
+
+Private Function ExibirNome(strNome As String) As String
+ExibirNome = "Seja Bem vindo(a) " & strNome
+End Function
+
