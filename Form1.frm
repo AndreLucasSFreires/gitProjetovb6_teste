@@ -25,4 +25,5 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
 MsgBox "Feito no Windows 7"
+MsgBox "feito no windows 10"
 End Sub
